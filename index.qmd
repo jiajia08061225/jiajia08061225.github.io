@@ -1,0 +1,19 @@
+---
+title: "jiajia-academic-site"
+---
+
+This is a Quarto website.
+
+研究方向 \
+核心方向 ▸ 脆弱人群健康管理与行为干预研究：聚焦老年多病共存人群、失能/残疾老人及其家庭照护者等脆弱群体，开展健康行为干预的设计、实施与效果评估。 \
+延伸研究兴趣 ▸ 卫生资源配置；基层医疗卫生服务体系；卫生政策评估等。
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+<iframe src="assets/00_个人简历_樊长佳.pdf" width="100%" height="800px">
+
+</iframe>
